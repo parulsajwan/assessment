@@ -1,0 +1,5 @@
+Django
+pandas
+django-cors-headers
+djangorestframework
+djangorestframework-simplejwt

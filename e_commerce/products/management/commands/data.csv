@@ -1,0 +1,11 @@
+product_id,product_name,category,price,quantity_sold,rating,review_count
+1,Product A,Electronics,29.99,100,4.5,25
+2,Product B,Personal Care,49.99,150,4.0,20
+3,Product C,Home,49.99,60,5.0,33
+4,Product D,Home,,75,3.5,10
+5,Product E,Clothes,15.00,,4.2,20
+6,Product F,Outdoors,25.00,50,,5
+7,Product G,Electronics,199.99,80,4.8,12
+8,Product H,Home,35.00,150,4.2,
+9,Product I,Outdoors,1000.00,200,3.9,93
+10,Product J,Personal Care,,90,4.0,30
